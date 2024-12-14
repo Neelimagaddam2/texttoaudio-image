@@ -1,25 +1,12 @@
-gtts==2.3.2         # For Google Text-to-Speech
-pyttsx3==2.90       # For offline TTS synthesis
-tts==0.12.0         # Coqui TTS for advanced ML-based text-to-speech
-
-Pillow==9.3.0                       # For basic image processing
-opencv-python-headless==4.8.0.76    # OpenCV for advanced tasks
-torch==2.0.1                        # PyTorch for image-related ML models
-transformers==4.31.0                # Hugging Face for image generation models
-
-streamlit==1.25.0
-
-
-streamlit==1.25.0
 gtts==2.3.2
 pyttsx3==2.90
-tts==0.12.0
-Pillow==9.3.0
+Pillow==9.5.0
 opencv-python-headless==4.8.0.76
-torch==2.0.1
+torch==2.1.0
 transformers==4.31.0
+streamlit==1.25.0
 numpy==1.23.5
-scipy==1.9.3
+scipy==1.10.1
 requests==2.31.0
 soundfile==0.12.1
 pydub==0.25.1
